@@ -1,0 +1,5 @@
+ccxt
+pyyaml
+schedule
+sqlalchemy
+mysqlclient

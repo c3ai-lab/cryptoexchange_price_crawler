@@ -1,0 +1,51 @@
+time_frames:
+  - name: 1d
+    timedelta:
+      days: 1
+      hours: 0
+      minutes: 0
+  - name: 12h
+    timedelta:
+      days: 0
+      hours: 12
+      minutes: 0
+  - name: 4h
+    timedelta:
+      days: 0
+      hours: 4
+      minutes: 0
+  - name: 1h
+    timedelta:
+      days: 0
+      hours: 1
+      minutes: 0
+  - name: 30m
+    timedelta:
+      days: 0
+      hours: 0
+      minutes: 30
+  - name: 15m
+    timedelta:
+      days: 0
+      hours: 0
+      minutes: 15
+  - name: 5m
+    timedelta:
+      days: 0
+      hours: 0
+      minutes: 5
+  - name: 1m
+    timedelta:
+      days: 0
+      hours: 0
+      minutes: 1
+symbols:
+  - BTCUSDT
+  - ETHUSDT
+  - BNBUSDT
+  - SOLUSDT
+  - ADAUSDT
+  - XRPUSDT
+  - DOTUSDT
+  - DOGEUSDT
+  - SHIBUSDT
